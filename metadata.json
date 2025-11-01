@@ -1,0 +1,5 @@
+{
+  "name": "OSINT & Red Team Toolkit",
+  "description": "A streamlined web interface for discovering and understanding major OSINT (Open Source Intelligence) and Red Team tools. This site provides a convenient, searchable directory of tools used for digital threat analysis, social engineering, and security assessments, complete with descriptions and example commands.",
+  "requestFramePermissions": []
+}
