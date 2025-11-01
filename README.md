@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Osint tool website
+list of tools which makes easier for peple to find, understand, and protect
+themselves from digital threats using information that is publicly available on the internet.this
+website make convinient for the users to tract or be secure from the attackers
 
-# Run and deploy your AI Studio app
+Features:
+>Bunch of OSINT tools with descriptions and usage instructions.
+>Supports both CLI and website interfaces.
+>Guides users on ethical and legal OSINT practices.
+>Provides information gathering, data analysis, and threat intelligence
 
-This contains everything you need to run your app locally.
+Installation and usage:
+>Just clone the website and you can run the commands based on the description given
 
-View your app in AI Studio: https://ai.studio/apps/drive/1GlL9C1iPRxrYOLrgQIEeF1dYue47h9GB
+Objectives
+>Simplify access to OSINT tools for security professionals and researchers.
+>Promote responsible intelligence gathering.
+>Enable automation of routine OSINT tasks.
+>Support cybersecurity investigations and social engineering defenses.
 
-## Run Locally
+Disclaimer:
+All tools integrated within this project are third-party resources. Users should use them ethically and legally.
 
-**Prerequisites:**  Node.js
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
